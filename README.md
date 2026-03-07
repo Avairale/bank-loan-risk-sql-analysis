@@ -1,7 +1,8 @@
 # bank-loan-risk-sql-analysis
 SQL project analyzing bank loan data to identify loan performance, repayment behavior, and financial profit and loss insights.
 
-Project Overview
+Project Overview:- 
+
 This project analyzes bank loan data using SQL to understand loan performance, borrower repayment behavior, and financial risk. The analysis helps identify profitable lending segments and detect areas where banks may experience financial loss.
 ________________________________________
 Tools Used
